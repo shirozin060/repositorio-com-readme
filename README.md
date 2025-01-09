@@ -19,3 +19,8 @@ um projeto de arquivo com README
  2 - Acesse a pasta do projeto
  ```
  cd repositorio-com-README
+ ```
+ 3 - verificar status
+ ```
+ git status
+ ```
