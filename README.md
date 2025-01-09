@@ -20,7 +20,7 @@ um projeto de arquivo com README
  ```
  cd repositorio-com-README
  ```
- 4 - verificar status
+ 3 - verificar status
  ```
  git status
  ```
